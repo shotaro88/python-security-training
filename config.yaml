@@ -1,0 +1,4 @@
+# demo configuration (no real secrets)
+service:
+  endpoint: http://localhost:5000
+  token: FAKE-TOKEN-123
