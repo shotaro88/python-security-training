@@ -2,5 +2,5 @@
 Flask==0.12.4
 Jinja2==2.10
 requests==2.18.4
-PyYAML==3.13
+PyYAML==5.4
 # pinning to older versions may break on modern Python; use a compatible Python (e.g. 3.7) in a sandbox
